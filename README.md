@@ -27,8 +27,6 @@ The Tech Stacks used are:
 # Getting Started
 To get started, create the basic UI for the game using HTML and CSS. After that, use JavaScript for creating logics and performing functions in it. 
 
-## Installation
-After pasting the CDN Links, we will use various features in Bootstrap such as Carousel, Buttons, Cards, Gutters, and much more.
 
 
 
