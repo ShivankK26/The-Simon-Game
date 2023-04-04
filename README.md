@@ -34,6 +34,6 @@ To get started, create the basic UI for the game using HTML and CSS. After that,
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/The-Simon-Game/
